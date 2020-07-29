@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283766150219",
+    "firebase_url": "https://horarioservico-47047.firebaseio.com",
+    "project_id": "horarioservico-47047",
+    "storage_bucket": "horarioservico-47047.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283766150219:android:9622db4706574f1fa7a9ce",
+        "android_client_info": {
+          "package_name": "com.example.horas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283766150219-b20a3e41jqat0708q95atdugf7kd92ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.horas",
+            "certificate_hash": "ff3c33b910c8e3e9af511c6ebb3c426d8b465843"
+          }
+        },
+        {
+          "client_id": "283766150219-u6fuloiir95plvjcs0ejt68vakenm7e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe_FsHLWhdjwwYlrHGgIN4T7B7vxvzTNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283766150219-u6fuloiir95plvjcs0ejt68vakenm7e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
